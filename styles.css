@@ -698,7 +698,7 @@ footer a:hover {
 
 @media only screen and (max-width: 500px) {
   .hero {
-    height: 100vh;
+    height: 80vh;
     overflow: hidden;
     padding: 60px 5%;
   }
@@ -732,7 +732,6 @@ footer a:hover {
 
   .advert-img {
     width: 100%;
-    flex: 1;
   }
 
   .advert .text {
